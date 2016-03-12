@@ -7,6 +7,9 @@
             "email": "paulo@serbinario.com.br"
         }
     ],
+    "psr-4": {
+        "Serbinario\\L5scaffold\\": "packages/serbinario/l5scaffold/src"
+    },
     "minimum-stability": "dev",
     "require": {}
 }
